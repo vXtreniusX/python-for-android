@@ -1,3 +1,5 @@
+My attempt to get it working for tuxemon
+
 python-for-android
 ==================
 
